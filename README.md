@@ -1,8 +1,8 @@
-# Joncarter
+# Kunal Mahajan
 Beautiful HTML,CSS and Bootstrap Portfolio
 
 # Clone Project
-- https://github.com/kunalmahajan1137
+- https://github.com/kunalmahajan1137/Kunal_Portfolio
 
 # Features
 - Fully Responsive
